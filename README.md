@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Thesis</p>
+# <p align: "center">Thesis</p>
 ## Machine Learning on DIN rails
 
 ### Background:
