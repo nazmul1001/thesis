@@ -1,5 +1,5 @@
-# <p align="center">Thesis</p>
-## Machine Learning on DIN rails
+# <p align="center">Thesis: Machine Learning on DIN rails</p>
+## Work Description
 
 ### Background:
 We are researching in several projects for the safety of field buses. Often, machine learning (ML) methods are applied in order to be able to make
